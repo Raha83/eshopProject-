@@ -46,25 +46,13 @@ The project follows a modular architecture to keep the code organized, maintaina
 Clone the repository:
 
 ```bash
-git clone https://github.com/Raha83/eshopProject-
+git clone https://github.com/Raha83/eshopProject-.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd YOUR_PROJECT_DIRECTORY
-```
-
-Create and activate a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment on Windows:
-
-```bash
-venv\Scripts\activate
+cd eshopProject-
 ```
 
 Install the required dependencies:
